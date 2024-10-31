@@ -1,0 +1,14 @@
+#网站的截图
+captureScreen:
+   - open: false
+
+#在下面填写网站地址
+weblist:
+  - url: https://cloud.tencent.com/developer/article/1922617
+
+#点击多少轮就退出
+clickCount:
+   - count: 3
+
+
+

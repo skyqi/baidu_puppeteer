@@ -1,0 +1,7 @@
+/node_modules
+/.cache
+/.idea
+/bin
+/dist
+/screenshot
+/test
